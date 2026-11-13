@@ -109,7 +109,7 @@ Share progress to Telegram
 
 `{ACCESS_TOKEN}` Telegram BOT access token
 
-Example: 6331494066:ABEfv4cF3dbc3mA8qGLDlEp2uxzgYESIa_w
+Example: [REDACTED: Telegram bot token]
 
 ---
 
@@ -251,4 +251,10 @@ If 15,000 people scan 1.7 billion per second (like 3090), it would take 15 days 
 
 1eosEvvesKV6C2ka4RDNZhmepm1TLFBtw
 
+## Support this project
 
+<p align="center">
+  <a href="https://buymeacoffee.com/ufodia">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60">
+  </a>
+</p>
